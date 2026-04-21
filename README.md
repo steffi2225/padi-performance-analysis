@@ -57,9 +57,8 @@ The analysis is subject to several data limitations and assumptions that should 
 
 ## Insights Deep Dive
 
-### Market place performance
-
-<img src="gmv_seller_category.png" width="750">
+### 
+<img src="gmv_seller_category_2023.png" width="750">
 
 Small and Medium sellers drove the majority of total GMV. contributing approximately 84% of total GMV in 2023. Among them, Medium sellers alone generated IDR 1.37T, representing nearly 48% of total GMV, making them the largest contributor.
 
@@ -78,17 +77,21 @@ Interactive chart version: in Tableau Dashboard
 <img src="user_gap.png" width="575">
 
 The chart highlights a significant activation gap across both buyers and sellers. Seller activation is particularly low, with only 6,661 out of 86,807 registered sellers completing at least one transaction in 2023, representing an activation rate of just 7.7%. In comparison, buyer activation stands at 23.1%, indicating relatively stronger demand-side participation. This suggests that future marketing and platform strategies should prioritize seller activation and re-engagement initiatives.
-### Geographical analysis
+
+### 
 <img src="user_by_region.png" width="900">
 
 Geographic analysis shows that marketplace activity is highly concentrated in Indonesia’s major economic regions. Approximately 79% of buyers and 76% of sellers, across both registered and active users, are concentrated in Java Region. This suggests that both demand and supply are predominantly centred in provinces with stronger socioeconomic development and more mature business ecosystems compared with other regions.
 This regional concentration is consistent with the marketplace performance analysis, where GMV is primarily driven by industrial, construction, and service-related categories commonly associated with urban and economically developed areas.
 
 ## Recommendations
-Make it clear that your recommendations come from your insights, by referencing the numbers from your findings
+
 •	Develop targeted seller activation and re-engagement campaigns, particularly for newly registered sellers who have not completed their first transaction. This may include onboarding guidance, promotional incentives, first-order discounts, and personalized seller support programs.
+
 •	Improve the product listing process by making category selection simpler and easier for sellers, so more registered users can become active sellers.
+
 •	Prioritize campaign efforts in Java and other economically developed regions, where both buyer demand and seller participation are already concentrated, while designing expansion strategies for underrepresented regions with future growth potent.
+
 •	Since 71% of GMV is concentrated in the top 10 product categories, future growth initiatives should focus on expanding underrepresented product segments and regional markets to reduce concentration risk and diversify marketplace demand.
 
 
