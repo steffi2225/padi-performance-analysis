@@ -31,7 +31,7 @@ Prior to analysis, SQL was used to conduct data quality checks and dataset famil
 
 ## Executive Summary
 
-<img src="Monthly_GMV_2023.png" width="600">
+<img src="monthly_gmv.png" width="600">
 
 All monetary values are shown in Indonesian Rupiah (IDR)
 
