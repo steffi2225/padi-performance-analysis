@@ -30,9 +30,11 @@ Since a single transaction may include multiple products, the order_item table i
 Prior to analysis, SQL was used to conduct data quality checks and dataset familiarization, including validation of unique keys, missing values, table relationships, duplicate records, and transaction-level granularity.
 
 ## Executive Summary
+
+<img src="Monthly_GMV_2023.png" width="600">
+
 All monetary values are shown in Indonesian Rupiah (IDR)
 
-<img src="monthly_GMV_2023.png" width="700">
 
 In 2023, PaDi UMKM generated approximately IDR 2.87 trillion in GMV, while platform revenue reached IDR 24.28 billion, resulting in an average take rate of 0.73%.
 Q4 recorded the strongest performance, contributing approximately IDR 1 trillion, which is consistent with the year-end spending behaviour commonly observed among SOEs under a “use it or lose it” budget allocation mindset.
@@ -55,10 +57,13 @@ The analysis is subject to several data limitations and assumptions that should 
 
 ## Insights Deep Dive
 
-### Market place performance 
+### Market place performance
+
+
 Small and Medium sellers drove the majority of total GMV. contributing approximately 84% of total GMV in 2023. Among them, Medium sellers alone generated IDR 1.37T, representing nearly 48% of total GMV, making them the largest contributor.
 
 In contrast, Large sellers contributed only around 1.6%, suggesting that PaDi’s marketplace activity is strongly aligned with its mission of empowering MSMEs.
+
 Interactive chart version: in Tableau Dashboard
 
 ### Key findings
