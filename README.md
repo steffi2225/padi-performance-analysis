@@ -25,10 +25,14 @@ The dataset is organized into five relational tables: transaction, order_item, s
 
 Since a single transaction may include multiple products, the order_item table is modeled at the line-item level. Therefore, a composite key (transaction_id, product_id) is used to uniquely identify each record.
 
+<img src="erd.png" width="575">
+
 Prior to analysis, SQL was used to conduct data quality checks and dataset familiarization, including validation of unique keys, missing values, table relationships, duplicate records, and transaction-level granularity.
 
 ## Executive Summary
 All monetary values are shown in Indonesian Rupiah (IDR)
+
+<img src="monthly_GMV_2023.png" width="700">
 
 In 2023, PaDi UMKM generated approximately IDR 2.87 trillion in GMV, while platform revenue reached IDR 24.28 billion, resulting in an average take rate of 0.73%.
 Q4 recorded the strongest performance, contributing approximately IDR 1 trillion, which is consistent with the year-end spending behaviour commonly observed among SOEs under a “use it or lose it” budget allocation mindset.
