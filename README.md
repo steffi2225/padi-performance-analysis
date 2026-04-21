@@ -74,7 +74,9 @@ Interactive chart version: in Tableau Dashboard
 
 •	**Shipping Agency**: Self-delivery accounts for approximately 89% of total transactions, making it the dominant fulfilment method on the platform. Further breakdown by product category reveals that 72% of self-delivered orders are concentrated in office stationery, workshop tools, electronics, food and beverages, and souvenirs & merchandise. This suggests that self-delivery is primarily associated with locally sourced, repeat-purchase items that support routine business procurement needs.
 
-### User Activation Analysis
+###
+<img src="user_gap.png" width="575">
+
 The chart highlights a significant activation gap across both buyers and sellers. Seller activation is particularly low, with only 6,661 out of 86,807 registered sellers completing at least one transaction in 2023, representing an activation rate of just 7.7%. In comparison, buyer activation stands at 23.1%, indicating relatively stronger demand-side participation. This suggests that future marketing and platform strategies should prioritize seller activation and re-engagement initiatives.
 ### Geographical analysis
 Geographic analysis shows that marketplace activity is highly concentrated in Indonesia’s major economic regions. Approximately 79% of buyers and 76% of sellers, across both registered and active users, are concentrated in Java Region. This suggests that both demand and supply are predominantly centred in provinces with stronger socioeconomic development and more mature business ecosystems compared with other regions.
