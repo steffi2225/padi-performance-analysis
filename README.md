@@ -31,7 +31,7 @@ Prior to analysis, SQL was used to conduct data quality checks and dataset famil
 
 ## Executive Summary
 
-<img src="monthy_gmv.png" width="600">
+<img src="monthly_gmv.png" width="600">
 
 All monetary values are shown in Indonesian Rupiah (IDR)
 
@@ -59,7 +59,7 @@ The analysis is subject to several data limitations and assumptions that should 
 
 ### Market place performance
 
-<img src="gmv_seller_category.png" width="600">
+<img src="gmv_seller_category.png" width="750">
 
 Small and Medium sellers drove the majority of total GMV. contributing approximately 84% of total GMV in 2023. Among them, Medium sellers alone generated IDR 1.37T, representing nearly 48% of total GMV, making them the largest contributor.
 
@@ -79,6 +79,8 @@ Interactive chart version: in Tableau Dashboard
 
 The chart highlights a significant activation gap across both buyers and sellers. Seller activation is particularly low, with only 6,661 out of 86,807 registered sellers completing at least one transaction in 2023, representing an activation rate of just 7.7%. In comparison, buyer activation stands at 23.1%, indicating relatively stronger demand-side participation. This suggests that future marketing and platform strategies should prioritize seller activation and re-engagement initiatives.
 ### Geographical analysis
+<img src="user_by_region.png" width="900">
+
 Geographic analysis shows that marketplace activity is highly concentrated in Indonesia’s major economic regions. Approximately 79% of buyers and 76% of sellers, across both registered and active users, are concentrated in Java Region. This suggests that both demand and supply are predominantly centred in provinces with stronger socioeconomic development and more mature business ecosystems compared with other regions.
 This regional concentration is consistent with the marketplace performance analysis, where GMV is primarily driven by industrial, construction, and service-related categories commonly associated with urban and economically developed areas.
 
