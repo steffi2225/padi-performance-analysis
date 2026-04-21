@@ -59,6 +59,7 @@ The analysis is subject to several data limitations and assumptions that should 
 
 ### Market place performance
 
+<img src="gmv_seller_category.png" width="600">
 
 Small and Medium sellers drove the majority of total GMV. contributing approximately 84% of total GMV in 2023. Among them, Medium sellers alone generated IDR 1.37T, representing nearly 48% of total GMV, making them the largest contributor.
 
