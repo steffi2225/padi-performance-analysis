@@ -32,7 +32,7 @@ Prior to analysis, SQL was used to conduct data quality checks and dataset famil
 ## Executive Summary
 
 ### Interactive chart version: in [Tableau Dashboard](https://public.tableau.com/views/PaDiUMKMPerformanceReview2023/PaDiUMKM?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+### Technical SQL queries: [here](./sql/padi_analysis.sql)
 <img src="monthly_gmv.png" width="600">
 
 All monetary values are shown in Indonesian Rupiah (IDR)
