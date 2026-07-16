@@ -25,7 +25,7 @@ The dataset is organized into five relational tables: transaction, order_item, s
 
 Since a single transaction may include multiple products, the order_item table is modeled at the line-item level. Therefore, a composite key (transaction_id, product_id) is used to uniquely identify each record.
 
-<img src="erd.png" width="575">
+<img src="images/erd.png" width="575">
 
 Prior to analysis, SQL was used to conduct data quality checks and dataset familiarization, including validation of unique keys, missing values, table relationships, duplicate records, and transaction-level granularity.
 
@@ -33,7 +33,7 @@ Prior to analysis, SQL was used to conduct data quality checks and dataset famil
 
 ### Interactive chart version: in [Tableau Dashboard](https://public.tableau.com/views/PaDiUMKMPerformanceReview2023/PaDiUMKM?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### Technical SQL queries: [here](./sql/padi_analysis.sql)
-<img src="monthly_gmv.png" width="600">
+<img src="images/monthly_gmv.png" width="600">
 
 All monetary values are shown in Indonesian Rupiah (IDR)
 
@@ -60,7 +60,7 @@ The analysis is subject to several data limitations and assumptions that should 
 ## Insights Deep Dive
 
 ### 
-<img src="gmv_seller_category_2023.png" width="750">
+<img src="images/gmv_seller_category_2023.png" width="750">
 
 Small and Medium sellers drove the majority of total GMV. contributing approximately 84% of total GMV in 2023. Among them, Medium sellers alone generated IDR 1.37T, representing nearly 48% of total GMV, making them the largest contributor.
 
@@ -75,12 +75,12 @@ In contrast, Large sellers contributed only around 1.6%, suggesting that PaDi’
 •	**Shipping Agency**: Self-delivery accounts for approximately 89% of total transactions, making it the dominant fulfilment method on the platform. Further breakdown by product category reveals that 72% of self-delivered orders are concentrated in office stationery, workshop tools, electronics, food and beverages, and souvenirs & merchandise. This suggests that self-delivery is primarily associated with locally sourced, repeat-purchase items that support routine business procurement needs.
 
 ###
-<img src="user_gap.png" width="575">
+<img src="images/user_gap.png" width="575">
 
 The chart highlights a significant activation gap across both buyers and sellers. Seller activation is particularly low, with only 6,661 out of 86,807 registered sellers completing at least one transaction in 2023, representing an activation rate of just 7.7%. In comparison, buyer activation stands at 23.1%, indicating relatively stronger demand-side participation. This suggests that future marketing and platform strategies should prioritize seller activation and re-engagement initiatives.
 
 ### 
-<img src="user_by_region.png" width="900">
+<img src="images/user_by_region.png" width="900">
 
 Geographic analysis shows that marketplace activity is highly concentrated in Indonesia’s major economic regions. Approximately 79% of buyers and 76% of sellers, across both registered and active users, are concentrated in Java Region. This suggests that both demand and supply are predominantly centred in provinces with stronger socioeconomic development and more mature business ecosystems compared with other regions.
 This regional concentration is consistent with the marketplace performance analysis, where GMV is primarily driven by industrial, construction, and service-related categories commonly associated with urban and economically developed areas.
